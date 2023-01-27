@@ -1,0 +1,10 @@
+## Shodan API Key
+api_key = "yourkeyhere123"
+
+## Parameters for the /shodan/host/{ip} endpoint
+## For more info: https://developer.shodan.io/api
+
+# True if all historical banners should be returned.
+history = false
+#True to only return the list of ports and the general host information, no banners.
+minify = false
