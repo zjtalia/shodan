@@ -21,7 +21,7 @@ Open a text file, and put each IP address on its own line with no extra punctuat
 
 ### Usage
 The easiest usage of the program is as follows:
-1. Download the release package `shodan.zip` [here](https://github.com/zjtalia/shodan_api/releases/).
+1. Download the release package `shodan.zip` [here](https://github.com/zjtalia/shodan/releases).
 1. Unzip the file and open the resulting folder.
 1. Using the file explorer, drag and drop the file containing your list of IP addresses onto the `shodan.exe` file.
 1. Open the resulting `ip_results.json`. For a better viewing experience, use your web browser or VSCode to open this file.
